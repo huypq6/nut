@@ -564,5 +564,12 @@ Additional documentation can be found in:
 Acknowledgements / Contributions
 --------------------------------
 
+Buid Troubleshot
+--------------------------------
+Error while configure 
+- Run auto config again with 
+```
+autoreconf -fi
+```
 The many people who have participated in creating and improving NUT are
 listed in the user manual <<Acknowledgements,acknowledgements appendix>>.
